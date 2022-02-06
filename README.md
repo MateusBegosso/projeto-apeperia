@@ -7,7 +7,7 @@ para pessoas com deficiência visual.
 
 Boa parte do código HTML foi feito usando o EMMET para agilizar a escrita e o site está totalmente responsivo para diferentes tamanhos de telas.
 
-Link do site: http://apeperia.infinityfreeapp.com
+Link do site: http://projeto-apeperia.epizy.com
 
 O site foi criado usando como base um curso da plataforma Alura.
 
